@@ -1,13 +1,13 @@
-##IT support Ticket Systems Project
+## IT support Ticket Systems Project
 
 # Business Scenario:
 TechCare Solutions receives 200+ IT support requests weekly via email and phone. No centralised system exists, leading to missed SLAs, duplicated work and frustrated staff.
 
-#Business Problem: The business is missing SLAs, with duplicated work, leading to frustrated IT support. Also, there is no centralised system with which to properly manage data.
+# Business Problem: The business is missing SLAs, with duplicated work, leading to frustrated IT support. Also, there is no centralised system with which to properly manage data.
 
-#Request clarification on the end-to-end process in the company.
+# Request clarification on the end-to-end process in the company.
 
-#Questions asked:
+# Questions asked:
  Who are the users and stakeholders? (IT Managers, end users, IT support, HR, project owners, Business Analyst), is this an internal solution? Is there a way to track the IT tickets submitted,is there a queue? 
 
  
