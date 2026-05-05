@@ -1,6 +1,6 @@
 ## IT support Ticket Systems Project
 
-# Business Scenario:
+# [Business Scenario](https://github.com/Beamdars/IT-support-Ticketing-system/blob/main/README.md#business-scenario):
 TechCare Solutions receives 200+ IT support requests weekly via email and phone. No centralised system exists, leading to missed SLAs, duplicated work and frustrated staff.
 
 # Business Problem: The business is missing SLAs, with duplicated work, leading to frustrated IT support. Also, there is no centralised system with which to properly manage data.
