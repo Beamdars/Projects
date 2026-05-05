@@ -3,7 +3,7 @@
 # [Business Scenario](https://github.com/Beamdars/IT-support-Ticketing-system/blob/main/README.md#business-scenario):
 TechCare Solutions receives 200+ IT support requests weekly via email and phone. No centralised system exists, leading to missed SLAs, duplicated work and frustrated staff.
 
-# Business Problem: The business is missing SLAs, with duplicated work, leading to frustrated IT support. Also, there is no centralised system with which to properly manage data.
+# [Business Problem](https://github.com/Beamdars/IT-support-Ticketing-system/blob/main/README.md#business-problem-the-business-is-missing-slas-with-duplicated-work-leading-to-frustrated-it-support-also-there-is-no-centralised-system-with-which-to-properly-manage-data): The business is missing SLAs, with duplicated work, leading to frustrated IT support. Also, there is no centralised system with which to properly manage data.
 
 # Request clarification on the end-to-end process in the company.
 
