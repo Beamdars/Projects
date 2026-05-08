@@ -6,24 +6,22 @@
 
 
 IT Ticket Table: 1:M relationship with Ticket Activity, 1:M relationship with notification log.
-
 Columns: ID · Title · Category · Priority. Status 
 
 Requester Table: 1:M relationship with IT ticket
+Columns: Name · Email · Department. Phone · Manager
 
-# Columns: Name · Email · Department. Phone · Manager
+IT Agent/Support Table: 1:M relationship with IT Ticket Activity, 1:M relationship with knowledge base
+Colums: Name · Email · Team. Manager. Workload · Availability
 
-# IT Agent/Support Table: 1:M relationship with IT Ticket Activity, 1:M relationship with knowledge base
-# Colums: Name · Email · Team. Manager. Workload · Availability
+SLA configuration Table: 1:M relationship with IT Ticket
+Columns:Priority levels
 
-# SLA configuration Table: 1:M relationship with IT Ticket
-# Columns:Priority levels
+ Knowledge Base Table: 1:M relationship with IT Ticket
 
-# Knowledge Base Table: 1:M relationship with IT Ticket
+Ticket activity table
 
-# Ticket activity table
-
-# Notification Log Table
+Notification Log Table
 
 <img width="3508" height="4963" alt="techcare_erd_full" src="https://github.com/user-attachments/assets/18d9a122-1f59-4a07-b7cf-cb955434cd33" />
 
