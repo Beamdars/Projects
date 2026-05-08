@@ -24,6 +24,6 @@ Project Structure >
 
 # [Business Requirement and Acceptance Criteria](https://github.com/Beamdars/IT-support-Ticketing-system/blob/main/Business%20Requirement%20and%20acceptance%20criteria.md#business-requirement)
 # [Entity Relationship Diagram](https://github.com/Beamdars/IT-support-Ticketing-system/blob/main/Entity%20relationship%20diagram.md#entities)
-# Power Platform component
+# [Power Platform component](https://github.com/Beamdars/IT-support-Ticketing-system/blob/main/Power%20Platform%20Component.md#the-power-platform-component)
 
 
