@@ -5,11 +5,11 @@
 ## Entities
 
 
-# IT Ticket Table: 1:M relationship with Ticket Activity, 1:M relationship with notification log.
+IT Ticket Table: 1:M relationship with Ticket Activity, 1:M relationship with notification log.
 
-# Columns: ID · Title · Category · Priority. Status 
+Columns: ID · Title · Category · Priority. Status 
 
-# Requester Table: 1:M relationship with IT ticket
+Requester Table: 1:M relationship with IT ticket
 
 # Columns: Name · Email · Department. Phone · Manager
 
