@@ -22,7 +22,7 @@ TechCare Solutions receives 200+ IT support requests weekly via email and phone.
 
 Project Structure >
 
-# Business Requirement and Acceptance Criteria
+# [Business Requirement and Acceptance Criteria](https://github.com/Beamdars/IT-support-Ticketing-system/blob/main/Business%20Requirement%20and%20acceptance%20criteria.md#business-requirement)
 # Entity Relationship Diagram
 # Power Platform component
 
